@@ -1,0 +1,3 @@
+module GOLANG_PROJECTS
+
+go 1.18
